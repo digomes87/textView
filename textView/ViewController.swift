@@ -4,6 +4,7 @@
 //
 //  Created by Diego Gomes on 03/11/2015.
 //  Copyright (c) 2015 Nylon. All rights reserved.
+// projec about use of UITextView
 //
 
 import UIKit
